@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "map_id": null,
+  "dictionary": "DICT_4X4_50",
+  "dictionary_confirmed_by_team": false,
+  "verification": {
+    "hold_seconds": 0.6,
+    "min_frames": 3,
+    "max_gap_seconds": 0.4,
+    "camera_timeout_seconds": 1.5,
+    "deadline_seconds": 10.0
+  },
+  "locations": [
+    {"key": "A", "name": "Shelf A", "marker_id": 1, "item": "Item A", "approach_pose": null},
+    {"key": "B", "name": "Shelf B", "marker_id": 2, "item": "Item B", "approach_pose": null},
+    {"key": "C", "name": "Shelf C", "marker_id": 3, "item": "Item C", "approach_pose": null},
+    {"key": "DELIVERY", "name": "Delivery point", "marker_id": 4, "item": null, "approach_pose": null}
+  ]
+}
